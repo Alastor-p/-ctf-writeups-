@@ -40,13 +40,14 @@
 |------|------|------|
 | 强网杯（第九届） | 2025 | [writeups/qwb/2025](writeups/qwb/2025/) |
 | 强网杯（第十届） | 2026 | [writeups/qwb/2026](writeups/qwb/2026/) |
+| 网鼎杯（第四届，线上资格赛） | 2024 | [writeups/wdb/2024](writeups/wdb/2024/) |
 | 全国大学生信息安全竞赛 CISCN（第十九届，暨第三届长城杯） | 2025 | [writeups/ciscn/2025](writeups/ciscn/2025/) |
 | CISCN & 长城杯半决赛 | 2026 | [writeups/ciscn/2026](writeups/ciscn/2026/) |
 | 羊城杯 | 2026 | [writeups/ycb/2026](writeups/ycb/2026/) |
 | DASCTF 夏季赛 | 2026 | [writeups/dasctf/2026](writeups/dasctf/2026/) |
 | DEF CON CTF Qualifier | 2025 | [writeups/defcon-quals/2025](writeups/defcon-quals/2025/) |
 
-核对到 2026-11-04、仍无可靠公开完整 WP、故未建目录：网鼎杯 2026、西湖论剑 / XCTF 2026、ByteCTF 2026、虎符 CTF 2026。DEF CON CTF Qualifier 2026 有英文公开 WP，中文摘要尚未收录。
+核对到 2026-11-04：网鼎杯 **2024** 线上资格赛已收录，见 [writeups/wdb/2024](writeups/wdb/2024/)。仍无可靠公开完整 WP、故未建目录：网鼎杯 **2026**、西湖论剑 / XCTF 2026、ByteCTF 2026、虎符 CTF 2026。DEF CON CTF Qualifier 2026 有英文公开 WP，中文摘要尚未收录。
 
 单题文件的 frontmatter：
 
