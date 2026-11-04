@@ -1,0 +1,26 @@
+# 仓库许可说明
+
+本仓库包含两套内容，许可不同。分发其中任一部分时，请同时带上 [`NOTICE.md`](NOTICE.md)。
+
+## `wiki/` — CC BY-NC-SA 4.0
+
+`wiki/` 来自 [CTF-Wiki](https://github.com/ctf-wiki/ctf-wiki) 的简体中文文档（上游路径 `docs/zh/docs/**`），许可为 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International（知识共享 署名-非商业性使用-相同方式共享 4.0）。
+
+- 许可证全文：[`wiki/LICENSE`](wiki/LICENSE)（与上游 `LICENSE` 相同）
+- 许可说明：<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+- 署名与修改记录：[`NOTICE.md`](NOTICE.md)
+- 在线站点：<https://ctf-wiki.org>
+
+使用这些文档需要：
+
+- **署名（BY）**：标明原作者为 CTF-Wiki 贡献者，并附上上游仓库链接与本仓库的修改说明。
+- **非商业（NC）**：不得将 `wiki/` 主要用于商业目的。
+- **相同方式共享（SA）**：对 `wiki/` 的改编须以同一许可证发布。
+
+`wiki/README.md` 是本仓库为该镜像写的说明，随 `wiki/` 按 CC BY-NC-SA 4.0 提供。
+
+## `writeups/` — 原创摘要
+
+`writeups/` 中的文章是本仓库撰写的公开赛题摘要，不是第三方 writeup 的全文复制。每篇保留来源链接（frontmatter 的 `sources` 以及文末「参考链接」）。引用或转载这些摘要时，请保留来源链接；原文、完整 exploit 和附件的版权仍归原作者，不因摘要存在而改变。
+
+`templates/`、根目录 `README.md` 与 `NOTICE.md` 是本仓库自己的说明。其中 `NOTICE.md` 同时承担 `wiki/` 的署名义务，再分发百科部分时必须保留。
