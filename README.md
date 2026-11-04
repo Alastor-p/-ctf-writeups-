@@ -39,6 +39,7 @@
 | 赛事 | 年份 | 目录 |
 |------|------|------|
 | 强网杯（第九届） | 2025 | [writeups/qwb/2025](writeups/qwb/2025/) |
+| 强网杯（第十届） | 2026 | [writeups/qwb/2026](writeups/qwb/2026/) |
 | 全国大学生信息安全竞赛 CISCN（第十九届，暨第三届长城杯） | 2025 | [writeups/ciscn/2025](writeups/ciscn/2025/) |
 | DEF CON CTF Qualifier | 2025 | [writeups/defcon-quals/2025](writeups/defcon-quals/2025/) |
 
